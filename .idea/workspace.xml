@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e20d194-86c1-4414-9bcc-1c7115bf5412" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/crakcode-dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect_cycle_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_node_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odd_even_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_duplicates_from_sorted_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_nth_node_from_end_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_rotated_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_largest_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shift_zeros_and_ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid_parentheses.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jMwTz3fbeXkyaKw4NhzKq86c0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.merge_intervals.executor": "Run",
+    "Python.second_largest_element.executor": "Run",
+    "Python.sort_colors.executor": "Run",
+    "Python.valid_parentheses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e20d194-86c1-4414-9bcc-1c7115bf5412" name="Changes" comment="" />
+      <created>1721210266320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721210266320</updated>
+    </task>
+    <servers />
+  </component>
+</project>
